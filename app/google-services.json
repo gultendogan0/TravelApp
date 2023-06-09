@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "245980943862",
+    "project_id": "visitapp-cf65d",
+    "storage_bucket": "visitapp-cf65d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245980943862:android:6d4fb6621d1a9cc500e3d7",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245980943862-rumm934j9amsv0d41beve61r99t7qelu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYfrwchMP29wXfafs89f-KsHs6NlaAHUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245980943862-rumm934j9amsv0d41beve61r99t7qelu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
